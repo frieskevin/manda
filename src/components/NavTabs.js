@@ -31,6 +31,7 @@ export default function NavTabs({ currentPage, handlePageChange }) {
                         Recommendations
                     </a>
             </li>
+            
         </ul>
     )
 }
