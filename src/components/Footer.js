@@ -5,7 +5,7 @@ export default function Footer() {
     return (
         <div className='d-flex justify-content-center bgyg py-3'>
             <div className="">
-            
+                <p>social media links here</p>
             </div>
         </div>
     )
