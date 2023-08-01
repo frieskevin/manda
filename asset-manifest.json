@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frieskevin.github.io/manda1/static/css/main.073c9b0a.css",
+    "main.js": "/frieskevin.github.io/manda1/static/js/main.ef3dd2fe.js",
+    "static/js/787.dc1871c7.chunk.js": "/frieskevin.github.io/manda1/static/js/787.dc1871c7.chunk.js",
+    "index.html": "/frieskevin.github.io/manda1/index.html",
+    "main.073c9b0a.css.map": "/frieskevin.github.io/manda1/static/css/main.073c9b0a.css.map",
+    "main.ef3dd2fe.js.map": "/frieskevin.github.io/manda1/static/js/main.ef3dd2fe.js.map",
+    "787.dc1871c7.chunk.js.map": "/frieskevin.github.io/manda1/static/js/787.dc1871c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ef3dd2fe.js"
+  ]
+}
