@@ -1,4 +1,8 @@
 import React, { useState } from 'react';
+import Appointments from './Appointments';
+import Education from './Education';
+import Recommendations from './Recommendations';
+import About from './About';
 import NavTabs from './NavTabs';
 
 export default function Header() {
@@ -12,6 +16,9 @@ export default function Header() {
         }
         if (currentPage === 'Recommendations') {
             return <Recommendations />
+        }
+        if (currentPage === 'About') {
+            return <About />
         }
     };
     const handlePageChange = (page) => setCurrentPage(page);
